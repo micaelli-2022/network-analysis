@@ -3,14 +3,19 @@
 1. Define:
 
 	(a) Subgraph
+Um Subgrafo é a parte de um grafo, ou seja, um Grafo A é subgrafo de B se o conjunto de vértice de A é um subconjunto   do conjunto de vértice de B, assim como, se o conjunto de arestas de A é um subconjunto do conjunto de arestas de B.
 	
 	(b) Bipartite graph.
+São aqueles que podem ser divididos em dois conjuntos disjuntos A e B, onde toda aresta conecta um nó em A a um nó em B.
 	
 	(c) Hamiltonian graph
-	
+Um grafo é hamiltoniano se ele possui um ciclo hamiltoniano, ou seja, passa por cada vértice uma única vez
+
 	(d) Eulerian graph.
+É um Grafo onde é possível caminhar por todas as suas arestas, visitando cada uma delas apenas uma vez. 
 
 2. Describe how a breadth-first search algorithm works.
+Primeiro começa pelo nó raiz e explora todos os seus nós vizinhos. E para cada um desses nós mais próximos explora seus nós vizinhos ainda não explorados. 
 
 3. How many edges does a complete graph with n vertices have? What about a complete directed graph with n vertices?
 
