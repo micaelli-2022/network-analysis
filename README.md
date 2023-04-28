@@ -39,12 +39,19 @@
 	 (S, M), (N, R), (P, M), (M, S)}`
 
 	(a) Specify, if any, a simple path from vertex M to vertex S.
+	
+	Não existe um caminho simples entre os vértices
 
 	(b) Specify, if any, a simple cycle, involving at least 4 nodes.
+	
+	Não existe um ciclo simples com pelo menos 4 nós
 
 	(c) Is the digraph connected or not connected?
+	
 
 	(d) What is the degree of vertices N and R.
+	
+	5
 
 	(e) Represent the digraph using adjacency list representation.
 
