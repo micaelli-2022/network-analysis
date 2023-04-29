@@ -62,6 +62,7 @@ E ={(M, S), (N, O), (P, R), (N, S), (O, M),
 
 **9. Mr. A is friend with Mrs. B, but she doesn't like him back. She has a reciprocal friendship with both C and D, but only C considers D a friend. D has also sent friend requests to E, F, G, and H but, so far, only G replied. G also has a reciprocal relationship with A. Draw the corresponding directed graph.**
 
+**10. Draw the graph from the previous exercise as undirected and weighted, with the weight being 2 if the connection is reciprocal, 1 otherwise.**
 	
 	
     (https://colab.research.google.com/drive/1SlGseEcN8AG-Acb21OcxCf0n7W-zjIQJ?usp=sharing)
