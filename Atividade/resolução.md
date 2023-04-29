@@ -54,19 +54,14 @@ E ={(M, S), (N, O), (P, R), (N, S), (O, M),
 
 	**(e) Represent the digraph using adjacency list representation.**
 	
-	
+	**(f) Represent the digraph using adjacency matrix representation.**
 
-	- digraph using adjacency matrix representation.
-Draw the undirected and directed versions of the graph G(V, E), where V = {1, 2, 3, 4, 5, 6} and E = {(2, 5), (6, 1), (5, 3), (2, 3)}.
+**7. Draw the undirected and directed versions of the graph G(V, E), where V = {1, 2, 3, 4, 5, 6} and E = {(2, 5), (6, 1), (5, 3), (2, 3)}.**
 
-8. How many edges does a graph have 3 vertices of degree 3 and one vertex of degree 5?
+**8. How many edges does a graph have 3 vertices of degree 3 and one vertex of degree 5?**
 
-9. Mr. A is friend with Mrs. B, but she doesn't like him back. She has a reciprocal friendship with both C and D, but only C considers D a friend. D has also sent friend requests to E, F, G, and H but, so far, only G replied. G also has a reciprocal relationship with A. Draw the corresponding directed graph.
-
-10. Draw the graph from the previous exercise as undirected and weighted, with the weight being 2 if the connection is reciprocal, 1 otherwise.
+**9. Mr. A is friend with Mrs. B, but she doesn't like him back. She has a reciprocal friendship with both C and D, but only C considers D a friend. D has also sent friend requests to E, F, G, and H but, so far, only G replied. G also has a reciprocal relationship with A. Draw the corresponding directed graph.**
 
 	
 	
-	
-	
-  https://colab.research.google.com/drive/1SlGseEcN8AG-Acb21OcxCf0n7W-zjIQJ?usp=sharing
+    (https://colab.research.google.com/drive/1SlGseEcN8AG-Acb21OcxCf0n7W-zjIQJ?usp=sharing)
